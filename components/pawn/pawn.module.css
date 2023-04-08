@@ -1,0 +1,15 @@
+.pawn {
+    width: 98%;
+    height: 98%;
+    border: 1px solid #fff;
+    background-color: rgb(25, 79, 179);
+    word-wrap: break-word;
+}
+
+.pawn .namestyle {
+    font-size: 8px;
+}
+
+.pawn .hp {
+    font-size: 8px;
+}

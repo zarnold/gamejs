@@ -10,23 +10,3 @@ body {
   color: rgb(7, 117, 25);
 }
 
-
-.boardgame {
-  width: 100%;
-  height: 100%;
-  border : 4mm ridge rgba(231, 100, 48, 0.829);
-  background-color: rgb(210, 222, 233);
-  display: flex;
-  flex-direction: row;
-}
-
-.row {
-  display: flex;
-  flex-direction: column;
-  flex:1
-}
-.case {
-  flex: 1;
-  border: 1px solid #333;
-  background-color: darkkhaki;
-}

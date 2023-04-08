@@ -1,6 +1,6 @@
 import './style.css'
 
-import { Board } from './board.js'
+import { Board } from './components/board.js'
 
 
 const mainBoard = new Board({ width: 30, height: 30 })
